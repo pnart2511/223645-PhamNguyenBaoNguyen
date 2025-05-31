@@ -1,3 +1,3 @@
 Name: Pham Nguyen Bao Nguyen
 Interests : Coding , Design
-Skills : PHP , C#
+Skills : PHP , C# , Python
